@@ -16,6 +16,9 @@
     width: 425px;
     height: 150px;
     background-color: #efb762;
-    margin: 20px auto;
-    
+    margin: 20px auto;   
+}
+
+.two {
+    width: 475px;
 }
