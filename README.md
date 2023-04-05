@@ -1,6 +1,6 @@
 # ROTHKO PAINTING APP
 
-The application was built as a practice project for a responsive web design course with FreecodeCamp. It features an abstract painting made with squares and vibrant colors that would move any beginner developer to tears (kidding, not kidding)
+The application was built as a practice project for a responsive web design course with FreecodeCamp. It features an abstract painting made with squares and vibrant colors that would move any beginner developer to tears (kidding, not kidding). :grimacing:
 
 ![rothko painting app - Tanimara Elias Santos](assets/images/rothko-painting-showcase.gif)
 
